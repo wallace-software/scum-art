@@ -2,7 +2,9 @@
 
 A modern web application built with **Next.js**, **TypeScript**, and **Tailwind CSS**.  
 
-This is a live website for digital artist Scum - https://x.com/SCUMSOL
+This is a live website for digital artist Scum (https://x.com/SCUMSOL)
+
+https://scum.art/
 
 > Originally developed under my web3 alias, now being showcased under **@wallace-software**.
 
