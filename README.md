@@ -1,7 +1,7 @@
 # Scum Art
 
 A modern web application built with **Next.js**, **TypeScript**, and **Tailwind CSS**.  
-This project focuses on [brief purpose — e.g., performance, design, or a feature highlight].
+This is a live website for digital artist Scum - https://x.com/SCUMSOL
 
 > Originally developed under my web3 alias, now being showcased under **@wallace-software**.
 
